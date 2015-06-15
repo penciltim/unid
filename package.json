@@ -1,0 +1,23 @@
+{
+  "name": "unid",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/penciltim/unid.git"
+  },
+  "description": "generate a short id with 6 characters",
+  "main": "index.js",
+  "dependencies": {
+    "base62": "git+https://github.com/penciltim/base62.js.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "short",
+    "id"
+  ],
+  "author": "Justim",
+  "license": "ISC"
+}
